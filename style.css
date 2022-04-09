@@ -1,0 +1,22 @@
+a {
+    
+}
+
+
+#sus-link-2{
+    position: absolute;
+    top: 27px;
+    display: block;
+    width: 200px;
+    height: 20px;
+}
+
+#sus-link-2:hover{
+    width: 0px;   
+}
+
+#hidden-bing-link{
+    width: 200px;
+    height: 20px;
+    display: block;
+}
